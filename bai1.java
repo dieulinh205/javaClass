@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-
-
 public class bai1 {
 
     public static void sapxep(int[] arr, int n){
