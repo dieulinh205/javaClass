@@ -1,6 +1,8 @@
+package com.phenikaa;
+
 import java.util.Scanner;
 
-public class bai2 {
+public class Bai2 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -47,9 +49,9 @@ public class bai2 {
             int mid = (left + right)/2;
             if(arr[mid] == x)
                 return true;
-            else if (arr[mid] < x)
+            else if (arr[mid] < x) //tìm phía trái phần tử x
                 left = mid + 1;
-            else right = mid - 1;
+            else right = mid - 1;  //tìm phía phải phần tử x
         }
         return false;
 
