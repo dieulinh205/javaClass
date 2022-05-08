@@ -1,4 +1,5 @@
 package com.phenikaa;
+import java.util.Scanner;
 
 public class matrix {
     public static void PrintMatrix(int matrixA[][],int matrixB[][],int m,int n){

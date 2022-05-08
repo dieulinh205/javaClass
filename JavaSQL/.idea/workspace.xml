@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb5c4357-e499-4784-a37b-4652dfd5314d" name="Changes" comment="">
+    <list default="true" id="8bfefa3e-e44f-45fe-98c7-c677d582efbc" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Bai5/src/com/phenikaa/IMath.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bai5/src/com/phenikaa/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/com/phenikaa/Bai1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/com/phenikaa/Bai3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/com/phenikaa/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BaiTap2/out/production/BaiTap2/com/phenikaa/matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BaiTap2/out/production/BaiTap2/com/phenikaa/matrix.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BaiTap2/src/com/phenikaa/FileNotFoundException.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BaiTap2/src/com/phenikaa/matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BaiTap2/src/com/phenikaa/matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaiTap3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaiTap3/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +28,8 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="26K4sQsrqbYkG3DEb7FAG2p7xy0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="26mxeXibaCWCE3ClmMBykjnNxFt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -95,12 +90,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JAVA_OPP/JavaSQL" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.phenikaa.Main" />
-      <module name="untitled104" />
+      <module name="JavaSQL" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -117,15 +115,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bb5c4357-e499-4784-a37b-4652dfd5314d" name="Changes" comment="" />
-      <created>1647159156005</created>
+      <changelist id="8bfefa3e-e44f-45fe-98c7-c677d582efbc" name="Changes" comment="" />
+      <created>1648042664527</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1647159156005</updated>
+      <updated>1648042664527</updated>
     </task>
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
