@@ -1,2 +1,4 @@
-package com.phenikaa;public class String {
+package com.phenikaa;
+
+public class String {
 }
